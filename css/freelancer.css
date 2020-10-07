@@ -614,7 +614,7 @@ pre code {
   flex-basis: 0;
   flex-grow: 1;
   max-width: 30%;
-  align-self: center;
+  margin: auto;
 }
 
 .col-auto {
